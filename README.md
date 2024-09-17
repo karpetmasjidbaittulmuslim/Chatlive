@@ -12,7 +12,7 @@ chatlive
         #chat-box {
             width: 80%;
             height: 400px;
-            border: 1px solid #ccc;
+            border: 1px solid black;
             overflow-y: scroll;
             margin: 20px auto;
             padding: 10px;
