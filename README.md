@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Live Chat</title>
     <style>
-        body {
+        body {   
             font-family: Arial, sans-serif;
+            background: #2fff;
         }
         #chat-box {
             width: 80%;
